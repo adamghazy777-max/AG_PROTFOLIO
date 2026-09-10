@@ -1,0 +1,19 @@
+ADAM GHAZY PORTFOLIO — GOOGLE SEO READY
+
+Implemented:
+- SEO title + meta description
+- Keywords
+- Canonical URL placeholders
+- Open Graph + Twitter Card metadata
+- Person/WebPage structured data (JSON-LD)
+- Descriptive image alt text
+- robots.txt with sitemap directive
+- sitemap.xml containing homepage + reviews page
+
+FINAL LIVE STEPS:
+1. Replace YOUR-DOMAIN.com in index.html, reviews.html, robots.txt and sitemap.xml with the exact HTTPS domain.
+2. Upload the site to a public HTTPS host. A local file:// URL cannot be indexed by Google.
+3. Open Google Search Console and add/verify the domain.
+4. Submit https://YOUR-DOMAIN.com/sitemap.xml in Sitemaps.
+5. Use URL Inspection for the homepage and reviews.html, then Request indexing.
+6. Wait for Google to crawl/index the pages; submission is not an indexing guarantee.

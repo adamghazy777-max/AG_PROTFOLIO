@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace YOUR-DOMAIN.com with the real website domain before publishing.
+# Sitemap: replace YOUR-DOMAIN.com with your real GitHub Pages URL and uncomment this line.
