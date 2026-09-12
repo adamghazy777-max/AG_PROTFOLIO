@@ -1,0 +1,10 @@
+DROP-IN MEMES UPDATE
+
+1) Replace your existing index.html with the included index.html (it keeps the existing projects and only adds the new meme loader + visitor-counter fallback).
+2) Upload memes-data.js next to index.html.
+3) Upload the whole memes folder next to index.html.
+4) Do not delete your old project/review files.
+
+Visitor counter:
+- If site-config.js contains valid Supabase URL + public/anon key, the counter uses the global Supabase counter.
+- If Supabase is not configured, the counter now falls back to a per-browser counter instead of showing a dash.
